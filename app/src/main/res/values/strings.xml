@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Score Keeper</string>
+    <!--Initialize value-->
+    <string name="zero">0</string>
+    <!--Name for Team A-->
+    <string name="name_team_a">Team A</string>
+    <!--Name for Team B-->
+    <string name="name_team_b">Team B</string>
+    <!--Info red card-->
+    <string name="red_card">Red Card</string>
+    <!--Info Goal button-->
+    <string name="goal">GOAL</string>
+    <!--Info Reset button-->
+    <string name="reset">RESET</string>
+    <!--Info yellow card-->
+    <string name="yellow_card">Yellow Card</string>
+    <!--Line between two main columns-->
+    <string name="line">Line</string>
+</resources>
